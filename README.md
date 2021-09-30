@@ -1,2 +1,2 @@
-# noise-filter
+# Noise-Filter
 Noise filtering in computer vision
