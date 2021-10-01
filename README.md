@@ -10,4 +10,4 @@ implement python code for the following filters
 Programme should automatically read all JPEG files in the home directory and produce an output with the filter name appended and on the same directory 
 
 ## Solution:
-Solution is based in python with openCV library.
+Solution is based in python.
